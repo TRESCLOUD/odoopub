@@ -1,3 +1,5 @@
+#Git Project Control
+/.project
 # sphinx build directories
 _build/
 
